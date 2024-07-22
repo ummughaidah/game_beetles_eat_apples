@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=kumbang
+comment1.params=
+comment1.target=kumbang()
+comment2.params=world
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=score\ getscore()
+comment5.params=
+comment5.target=void\ eating()
+comment6.params=
+comment6.target=void\ checkCollision()
+comment7.params=apel
+comment7.target=void\ eat(hijau1)
+comment8.params=
+comment8.target=void\ gameOver()
+numComments=9
